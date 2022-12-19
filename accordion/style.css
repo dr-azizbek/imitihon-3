@@ -1,0 +1,28 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  #btn{
+    position: relative;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    left: 600px;
+    width: 100px;
+    height: 30px;
+    margin: 10px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 5px rgb(149, 146, 146);
+  }
+  #nt{
+    position: relative;
+    left: 80px;
+  }
